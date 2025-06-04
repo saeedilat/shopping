@@ -1,3 +1,15 @@
+## a shopping project build with react , bootstrap and react-bootstrap
+## this project was developed to demonstrate the ability to use the Context API concept in a real-world application 
+
+## ویژگی ها 
+
+- رابط کاربری مدرن به کمک bootstrap and react-bootstrap 
+- ساختار کامپوننت محور وقابل توسعه
+
+
+## مشاهده آنلاین
+(https://shopping-tau-blush.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
