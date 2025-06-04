@@ -1,0 +1,18 @@
+.bg-danger {
+display: flex;
+justify-content: center;
+align-items: center;
+    /* width: 30;
+    height: 30px; */
+}
+.navbar{
+    background-color: var(--dark);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+}
+.navbar-nav .nav-link {
+    color:var(--main-white)
+}
+.bag-icon{
+    color: var(--main-white);
+    font-size: large;
+}
